@@ -1,0 +1,3 @@
+# requisitos para o projeto
+gunicorn
+psycopg2
